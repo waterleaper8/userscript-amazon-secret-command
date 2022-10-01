@@ -2,7 +2,7 @@
 // @name         Amazon裏コマンド
 // @namespace    https://next.waterleaper.net/
 // @version      0.1
-// @description  Amazonの商品を絞り込みます
+// @description  Amazonの商品を裏コマンドで絞り込みます
 // @author       waterleaper
 // @match        https://www.amazon.co.jp/s*
 // @icon         https://www.amazon.co.jp/favicon.ico
