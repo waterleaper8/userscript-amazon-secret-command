@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Amazon裏コマンド
 // @namespace    https://next.waterleaper.net/
-// @version      0.1
+// @version      0.2
 // @description  Amazonの商品を裏コマンドで絞り込みます
 // @author       waterleaper
 // @match        https://www.amazon.co.jp/s*
